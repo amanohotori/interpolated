@@ -6,8 +6,8 @@ namespace interpolated
     {
         static void Main(string[] args)
         {
-            var name = "hotori";
-            Console.WriteLine($"Hello, {name}. It's a pleasure to meet you!");
+            Object obj = new Object();
+            Console.WriteLine(obj.ToString());
         }
     }
 }
