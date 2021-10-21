@@ -1,4 +1,5 @@
-﻿using System;
+﻿// マージの競合が発生して変更のどちらもが表示された例
+using System;
 
 namespace interpolated
 {
