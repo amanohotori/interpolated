@@ -6,7 +6,7 @@ namespace interpolated
     {
         static void Main(string[] args)
         {
-            var name = "hotori";
+            var name = "manaru";
             Console.WriteLine($"Hello, {name}. It's a pleasure to meet you!");
         }
     }
